@@ -1,3 +1,3 @@
 test = True
-db_user = 'dvineis'
-db_password = ''
+db_user = 'root'
+db_password = 'pine1251'
